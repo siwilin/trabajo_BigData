@@ -1,0 +1,13 @@
+Holaaa, Soy Carlos Eduardo Albornoz Manzano, estudiante del Grado de Economía en la Universidad de Valencia.
+
+Este es el trabajo final de la asignatura "Programación y manejo de datos en la era del Big Data".
+
+Esta es la web de la asignatura: [clic para ver](https://perezp44.github.io/intro-ds-23-24-web/){target="_blank"}. 
+
+Aquí hay trabajos de mis compañeros: [clic para ver](https://perezp44.github.io/intro-ds-23-24-web/05-trabajos-estudiantes.html){target="_blank"}.
+
+Mi trabajo se titula "Spotify Wrapped 2024 en R". En el trabajo utilizo mis datos históricos de Spotify para crear un dataframe, a partir del cual poder obtener diferentes conceptos como mi top de artistas, top de canciones, total de minutos escuchados, etc.
+
+El trabajo puede verse [AQUÍ](my_trabajo_bigdata.html).
+
+El código usado en el trabajo está en el archivo index.R, en la carpeta de github. Si quieres utilizar el código con tu historial, [pídeselo a Spotify a través de este enlace](https://www.spotify.com/es/account/privacy/) y asegúrate de tener todos los datos del año copiados dentro de un archivo que llames data.json (los .json se pueden editar en el bloc de notas).
